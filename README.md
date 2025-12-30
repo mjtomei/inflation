@@ -17,34 +17,40 @@ An analysis of CPI methodology limitations and alternative inflation metrics, ex
 - Case study: Argentina's inflation measurement controversy (2007-2015)
 - Epistemic implications of measurement methodology choices
 
-## Figures
-
-Generated figures are in `figures/`. To regenerate:
-
-```bash
-source venv/bin/activate
-python3 generate_figures.py
-```
-
-## Building the PDF
-
-```bash
-pdflatex inflation_final_humanized.tex
-bibtex inflation_final_humanized
-pdflatex inflation_final_humanized.tex
-pdflatex inflation_final_humanized.tex
-```
-
 ## Project Structure
 
 ```
 ├── inflation_final_humanized.tex   # Main LaTeX document
 ├── inflation_final_humanized.pdf   # Compiled paper
 ├── references.bib                  # Bibliography
-├── generate_figures.py             # Figure generation script
 ├── figures/                        # Generated figures (PNG)
-├── venv/                           # Python virtual environment
-└── *.py                            # Various processing scripts
+├── scripts/                        # Python scripts
+│   ├── generate_figures.py         # Figure generation
+│   ├── convert_citations.py        # Citation processing
+│   └── ...                         # Various processing scripts
+├── drafts/                         # Intermediate document versions
+├── reviews/                        # Peer review materials
+└── output/                         # Build artifacts and logs
+```
+
+## Building
+
+### Regenerate figures
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install matplotlib numpy
+python3 scripts/generate_figures.py
+```
+
+### Compile PDF
+
+```bash
+pdflatex inflation_final_humanized.tex
+bibtex inflation_final_humanized
+pdflatex inflation_final_humanized.tex
+pdflatex inflation_final_humanized.tex
 ```
 
 ## JEL Classification

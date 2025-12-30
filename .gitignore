@@ -1,4 +1,22 @@
-venv
-*__pycache__*
-Binoculars
-ai_detect_env
+# Python
+__pycache__/
+*.pyc
+venv/
+ai_detect_env/
+
+# External tools
+Binoculars/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.bbl
+*.blg
+*.out
+*.toc
+*.lof
+*.lot
+*.synctex.gz
+
+# OS files
+.DS_Store
