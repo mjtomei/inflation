@@ -6,11 +6,13 @@ December 2025
 
 ## Abstract
 
-This paper synthesizes existing research on consumer price inflation measurement in the United States, comparing official government methodology, alternative private measures, and novel analytical approaches. We document established findings: (1) cumulative methodological changes to the Consumer Price Index since 1980 have systematically lowered measured inflation by approximately 5.1 percentage points over 31 years (per BLS's own CPI-U-RS series); (2) real-time alternative measures such as Truflation diverge from official CPI by 1-2 percentage points during volatile periods; (3) inflation inequality across income and racial groups is substantial—the lowest income quintile experiences 10% higher cumulative inflation than the highest, and Black and Hispanic households face 0.4-0.6 percentage point higher annual inflation than white households—findings well-documented in Federal Reserve research but absent from popular discourse and policy debate.
+U.S. inflation measurement has systematically evolved to report lower numbers—and the impact falls hardest on those least able to verify it. This paper demonstrates that machine intelligence now enables anyone to check the math.
 
-We construct five novel metrics from publicly available data. Key findings: necessities have inflated 35 percentage points more than discretionary goods since 2000; asset-adjusted inflation exceeds official CPI by 29%; the labor-hours required for a home down payment have increased 84% since 1990; protein costs (eggs, beef) require 35-42% more work-minutes to purchase than in 1990. The Argentina case study (2007-2015), drawn from Cavallo (2013), illustrates how independent measurement with transparent methodology can serve as a check on official statistics.
+We synthesize existing research comparing official government methodology, alternative private measures, and novel analytical approaches. The findings: (1) cumulative methodological changes to the Consumer Price Index since 1980 have lowered measured inflation by approximately 5.1 percentage points over 31 years (per BLS's own CPI-U-RS series); (2) real-time alternative measures diverge from official CPI by 1-2 percentage points during volatile periods; (3) inflation inequality across income and racial groups is substantial—the lowest income quintile experiences 10% higher cumulative inflation than the highest, and Black and Hispanic households face 0.4-0.6 percentage point higher annual inflation than white households—findings well-documented in Federal Reserve research but absent from popular discourse.
 
-Beyond technical findings, this paper situates inflation measurement within a broader framework of epistemic authority and information asymmetry. Drawing on Stiglitz's economics of information, Foucault's analysis of knowledge-power relations, and Scott's theory of state legibility, we argue that machine intelligence disrupts traditional monopolies on economic measurement. The analyses presented here synthesize work across economics, sociology, and political philosophy—fields whose practitioners rarely have time to fully digest each other's literatures. Machine intelligence enables a polymath capability: fluency across disciplinary languages in a world where human specialization makes such breadth increasingly rare. The result is idea-dense work that integrates perspectives typically siloed by academic incentive structures. This capacity, now widely accessible, portends a transformation in who can produce authoritative knowledge about economic conditions.
+We construct five novel metrics from publicly available data: necessities have inflated 35 percentage points more than discretionary goods since 2000; asset-adjusted inflation exceeds official CPI by 29%; labor-hours required for a home down payment have increased 84% since 1990; protein costs require 35-42% more work-minutes to purchase than in 1990. The Argentina case study (2007-2015) illustrates how independent measurement can expose official manipulation.
+
+This paper situates inflation measurement within a broader framework of epistemic authority. Drawing on Stiglitz, Foucault, and Scott, we argue that machine intelligence disrupts traditional monopolies on economic measurement. The analyses here synthesize work across economics, sociology, and political philosophy—fields whose practitioners rarely digest each other's literatures. Machine intelligence enables polymath capability: fluency across disciplinary languages in a world where specialization makes such breadth rare. This capacity, now widely accessible, portends a transformation in who can produce authoritative knowledge about economic conditions.
 
 **Keywords**: inflation measurement, CPI methodology, distributional effects, alternative data, price indices, information asymmetry, epistemic authority, machine intelligence
 
@@ -243,15 +245,17 @@ Figure 6 illustrates how spending composition varies across income levels, expla
 
 *Figure 6: Spending composition by income quintile. Lower-income households allocate larger shares to necessities with higher and more volatile price growth. Data: BLS Consumer Expenditure Survey. Note: Percentages are representative values; precise shares vary by year and survey methodology.*
 
+The following section demonstrates how these aggregate patterns manifest in individual experience.
+
 ---
 
 ## 6. Novel Metrics: A Demonstration
 
 ### 6.1 Maria's Question
 
-Consider Maria, a nursing assistant in Cleveland earning $18.50 per hour. In 2024, she reads that inflation has fallen to 2.7%—nearly back to the Fed's target. But her grocery bills tell a different story. Eggs cost twice what they did three years ago. Ground beef has become a luxury. Her rent increased 12% last year. She wonders: is the official number wrong, or is something else going on?
+Consider Maria, a nursing assistant in Cleveland earning $17 per hour—close to the BLS median for nursing assistants in Ohio. Her household income places her in the second quintile documented in Section 5.1. In 2024, she reads that inflation has fallen to 2.7%—nearly back to the Fed's target. But her grocery bills tell a different story. Eggs cost twice what they did three years ago. Ground beef has become a luxury. Her rent increased 12% last year. She wonders: is the official number wrong, or is something else going on?
 
-Maria's intuition is correct, but the explanation is subtle. CPI measures the average urban consumer's experience. Maria is not average. She spends more of her income on food and rent than wealthier households do. She doesn't benefit from falling prices on electronics and apparel. The aggregate statistic is accurate for what it measures—but what it measures may not be her life.
+Maria's intuition is correct, but the explanation is subtle. CPI measures the average urban consumer's experience. Maria is not average—she is the second quintile experiencing the 10%+ cumulative inflation gap documented in Section 5. She spends more of her income on food and rent than wealthier households do. She doesn't benefit from falling prices on electronics and apparel. The aggregate statistic is accurate for what it measures—but what it measures may not be her life.
 
 With access to the same public data the BLS uses, what could Maria discover about her own inflation experience? This section demonstrates five metrics she could construct—requiring no proprietary data, no institutional resources, and no specialized training beyond what AI assistance now provides.
 
@@ -263,10 +267,10 @@ Maria's first question is visceral: how much longer does she have to work to buy
 
 | Good | 1990 | 2024 | Change |
 |------|------|------|--------|
-| Gallon of Milk | 12.9 min | 10.3 min | -19.9% |
-| Dozen Eggs | 6.1 min | 8.2 min | +34.8% |
-| Pound of Ground Beef | 9.8 min | 13.9 min | +42.0% |
-| Gallon of Gasoline | 7.0 min | 8.4 min | +21.4% |
+| Gallon of Milk | 12.9 min | 10.3 min | -20% |
+| Dozen Eggs | 6.1 min | 8.2 min | +35% |
+| Pound of Ground Beef | 9.8 min | 13.9 min | +42% |
+| Gallon of Gasoline | 7.0 min | 8.4 min | +21% |
 
 ![Figure 9: Time-Cost Index](figures/fig_time_cost_index.png)
 
@@ -347,6 +351,10 @@ The 2020-2024 period shows time-cost acceleration exceeding dollar-cost trends. 
 Maria now has language for her experience. She is not imagining things. The official statistics are not lying—they are measuring something different from her life. And she constructed these metrics herself, using the same public data the government uses, with no specialized training.
 
 This is the point. Maria's frustration with official statistics is shared by millions. Previously, those millions could only say "it feels worse." Now they can say "here is the data." They can construct the metrics that matter to their lives. They can challenge the framing of official statistics not with anger but with numbers.
+
+What does Maria do next? She shares her analysis with her union's research director, who incorporates the necessity-weighted inflation data into contract negotiations. She posts a simplified version to a Facebook group for healthcare workers, where it is shared hundreds of times. A local journalist notices and writes a story about "hidden inflation" affecting working families. A city councilmember cites the time-cost data in a hearing on living wage ordinances.
+
+None of this is guaranteed, of course. Maria's analysis might be ignored; the journalist might not call back; the councilmember might never see it. But the capability now exists. It required only a question, public data, and a tool that could help her find the answer.
 
 Whether this capability will be used wisely—whether it will produce better understanding or merely alternative tribal truths—remains to be seen. But the capability is no longer reserved for credentialed experts. Maria can do this. Anyone can do this.
 
@@ -459,9 +467,7 @@ The abstract language of "democratization" obscures a concrete question: who spe
 
 ### 8.5 Beyond Inflation
 
-The same analytical capabilities apply to employment statistics, GDP measurement, poverty thresholds, wealth distribution, and trade data. In each domain, official statistics embed methodological choices; in each domain, the raw data increasingly exists in accessible forms; in each domain, machine intelligence can produce alternatives.
-
-We are witnessing a transformation comparable to the printing press's disruption of religious authority or the internet's disruption of media gatekeeping. The analyses that once required institutional affiliation can now be produced by anyone with a question and access to AI systems.
+The same analytical capabilities apply to employment statistics, GDP measurement, poverty thresholds, wealth distribution, and trade data. In each domain, official statistics embed methodological choices; in each domain, the raw data increasingly exists in accessible forms; in each domain, machine intelligence can produce alternatives. The analyses that once required institutional affiliation can now be produced by anyone with a question and access to AI systems.
 
 ### 8.6 Risks
 
@@ -509,24 +515,31 @@ This paper has examined U.S. inflation measurement through comparative analysis 
 
 ### 9.3 Policy Recommendations
 
-The findings suggest several actionable recommendations for policymakers, statistical agencies, and civil society:
+The findings suggest several actionable recommendations for policymakers, statistical agencies, and civil society. We organize these by implementation timeline:
 
-**For the Bureau of Labor Statistics:**
-1. Publish a necessity-weighted CPI alongside headline CPI, comparable to the experimental CPI-E for the elderly. Lower-income households' consumption baskets differ systematically from the average; they deserve an index that reflects their experience.
-2. Report distributional statistics prominently. The Fed regional banks already produce inflation-by-income and inflation-by-race research; BLS should integrate this into standard releases rather than burying it in technical papers.
-3. Maintain and extend the CPI-U-RS research series, which enables comparison of current and historical methodology. Transparency about methodology evolution builds rather than undermines credibility.
+**Quick wins (implementable within existing authority and budgets):**
 
-**For the Federal Reserve:**
-4. Incorporate distributional inflation metrics into monetary policy deliberations. If inflation inequality means lower-income households experience 10% higher cumulative price increases, "2% average inflation" has different welfare implications than headline numbers suggest.
-5. Fund and publicize research on demographic inflation disparities. The regional Fed banks have done excellent work; it deserves broader dissemination.
+1. **BLS: Report distributional statistics prominently.** The Fed regional banks already produce inflation-by-income and inflation-by-race research; BLS should integrate this into standard releases rather than burying it in technical papers. *No new data collection required—only presentation changes.*
 
-**For Congress:**
-6. Consider legislation requiring supplemental indices for Social Security COLA calculations. Current methodology systematically underweights necessities that dominate beneficiary budgets.
-7. Fund BLS adequately to enable more granular data collection and faster release of alternative measures.
+2. **BLS: Maintain and extend the CPI-U-RS research series.** This enables comparison of current and historical methodology. Transparency about methodology evolution builds rather than undermines credibility. *Already exists; requires only continuation.*
 
-**For civil society:**
-8. Develop and publicize alternative inflation measures tailored to specific communities—necessity-weighted indices for retirees, first-time-buyer affordability indices for young households, time-cost indices for working-class families.
-9. Establish norms for methodological transparency in alternative measures. ShadowStats failed not because it was alternative but because it was opaque. Independent measures gain credibility through replicability, not through opposition to official statistics.
+3. **Civil society: Develop community-specific inflation trackers.** Necessity-weighted indices for retirees, first-time-buyer affordability indices for young households, time-cost indices for working-class families. *Public data already available; requires only analysis and dissemination.*
+
+**Medium-term structural changes (require agency initiative or modest legislation):**
+
+4. **BLS: Publish a necessity-weighted CPI alongside headline CPI.** Comparable to the experimental CPI-E for the elderly, this would give lower-income households an index reflecting their actual consumption patterns. *Requires methodology development but no new data collection.*
+
+5. **Federal Reserve: Incorporate distributional inflation metrics into monetary policy deliberations.** If lower-income households experience 10% higher cumulative inflation, "2% average inflation" has different welfare implications than headline numbers suggest. *Requires internal policy change, not legislation.*
+
+6. **Civil society: Establish norms for methodological transparency.** ShadowStats failed because it was opaque, not because it was alternative. Independent measures gain credibility through replicability. *Requires norm development, not resources.*
+
+**Long-term reforms (require Congressional action or significant new resources):**
+
+7. **Congress: Legislate supplemental indices for Social Security COLA.** Current methodology systematically underweights necessities that dominate beneficiary budgets. *Requires legislation and political will.*
+
+8. **Congress: Fund BLS adequately.** More granular data collection, faster release cycles, and expanded alternative measures require resources that have not kept pace with analytical demands. *Requires appropriations.*
+
+9. **Federal Reserve: Fund and publicize demographic disparity research.** Regional Fed banks have done excellent work that deserves broader dissemination and continuation. *Requires sustained commitment.*
 
 These recommendations do not assume official statistics are wrong—they assume that transparency, disaggregation, and independent verification serve the public interest regardless of whether they reveal problems.
 
@@ -554,7 +567,19 @@ Ambrose, B. W., Coulson, N. E., & Yoshida, J. (2015). The repeat rent index. *Re
 
 Argente, D., & Lee, M. (2021). Cost of living inequality during the Great Recession. *Journal of the European Economic Association*, 19(2), 913-952.
 
+Athey, S., & Imbens, G. W. (2019). Machine learning methods that economists should know about. *Annual Review of Economics*, 11, 685-725.
+
 Becker, G. S. (1965). A theory of the allocation of time. *Economic Journal*, 75(299), 493-517.
+
+Benkler, Y. (2006). *The Wealth of Networks: How Social Production Transforms Markets and Freedom*. Yale University Press.
+
+Chen, M., Tworek, J., Jun, H., et al. (2021). Evaluating large language models trained on code. *arXiv preprint arXiv:2107.03374*.
+
+Darity, W. A., Jr., & Hamilton, D. (2012). Bold policies for economic justice. *The Review of Black Political Economy*, 39(1), 79-85.
+
+Darity, W. A., Jr., & Myers, S. L., Jr. (1998). *Persistent Disparity: Race and Economic Inequality in the United States Since 1945*. Edward Elgar.
+
+Derenoncourt, E., Kim, C. H., Kuhn, M., & Schularick, M. (2022). Wealth of two nations: The U.S. racial wealth gap, 1860-2020. *Quarterly Journal of Economics*, 137(4), 2049-2091.
 
 Bourdieu, P. (1975). The specificity of the scientific field and the social conditions of the progress of reason. *Social Science Information*, 14(6), 19-47.
 
@@ -610,9 +635,17 @@ Jaravel, X. (2019). The unequal gains from product innovations: Evidence from th
 
 Kudlyak, M., & Wolpin, K. I. (2022). Do Black households face higher and more volatile inflation? *Economic Brief*, Federal Reserve Bank of Richmond, 22-25.
 
+Lopez-Lira, A., & Tang, Y. (2023). Can ChatGPT forecast stock price movements? Return predictability and large language models. *SSRN Working Paper*.
+
+Marshall, I. J., & Wallace, B. C. (2019). Toward systematic review automation: A practical guide to using machine learning tools in research synthesis. *Systematic Reviews*, 8(1), 163.
+
 Moulton, B. R. (1996). Bias in the consumer price index: What is the evidence? *Journal of Economic Perspectives*, 10(4), 159-177.
 
+Mullainathan, S., & Spiess, J. (2017). Machine learning: An applied econometric approach. *Journal of Economic Perspectives*, 31(2), 87-106.
+
 Moulton, B. R., & Moses, K. E. (1997). Addressing the quality change issue in the consumer price index. *Brookings Papers on Economic Activity*, 1997(1), 305-366.
+
+Oliver, M. L., & Shapiro, T. M. (2006). *Black Wealth/White Wealth: A New Perspective on Racial Inequality* (2nd ed.). Routledge.
 
 Pakes, A. (2003). A reconsideration of hedonic price indexes with an application to PCs. *American Economic Review*, 93(5), 1578-1596.
 
@@ -624,6 +657,8 @@ Saez, E., & Zucman, G. (2016). Wealth inequality in the United States since 1913
 
 Scott, J. C. (1998). *Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed*. Yale University Press.
 
+Shirky, C. (2008). *Here Comes Everybody: The Power of Organizing Without Organizations*. Penguin Press.
+
 Spence, M. (1973). Job market signaling. *Quarterly Journal of Economics*, 87(3), 355-374.
 
 Stigler, G. J. (1971). The theory of economic regulation. *Bell Journal of Economics and Management Science*, 2(1), 3-21.
@@ -631,6 +666,8 @@ Stigler, G. J. (1971). The theory of economic regulation. *Bell Journal of Econo
 Stiglitz, J. E. (1975). The theory of "screening," education, and the distribution of income. *American Economic Review*, 65(3), 283-300.
 
 Stiglitz, J. E. (2017). The revolution of information economics: The past and the future. *NBER Working Paper No. 23780*.
+
+Taylor, R., Kardas, M., Cucurull, G., et al. (2022). Galactica: A large language model for science. *arXiv preprint arXiv:2211.09085*.
 
 Truflation. (2024). Methodology and data sources. Retrieved from https://truflation.com/
 
@@ -683,11 +720,15 @@ This appendix documents the research process to enable replication and critical 
 This paper was produced through iterative collaboration between a human author and Claude (Anthropic), a large language model. The process involved:
 
 1. **Initial framing**: Human author specified research questions, target audience, and non-negotiable claims
-2. **Literature review**: AI system searched academic databases and synthesized findings; human verified key citations against primary sources
-3. **Data collection**: AI identified publicly available data sources; human verified accessibility and downloaded primary data
+2. **Literature review**: AI system searched Google Scholar, JSTOR, NBER, and FRED using terms including "CPI methodology," "inflation inequality," "alternative price indices," "hedonic adjustment," "owner's equivalent rent," "distributional inflation," "racial wealth gap inflation," and "Billion Prices Project." Human verified key citations against primary sources.
+3. **Data collection**: AI identified publicly available data sources; human verified accessibility and downloaded primary data from BLS.gov, FRED (Federal Reserve Economic Data), and academic repositories
 4. **Metric construction**: AI proposed metric operationalizations; human reviewed for methodological soundness
-5. **Figure generation**: AI wrote Python scripts to generate visualizations; human verified data accuracy against source tables
-6. **Iterative revision**: Multiple review cycles incorporating peer review, editorial feedback, and human judgment calls
+5. **Figure generation**: AI wrote Python scripts to generate visualizations from BLS average price data, OEWS wage data, Case-Shiller indices, and CPI component indices; human verified data accuracy against source tables
+6. **Iterative revision**: Multiple review cycles incorporating simulated peer review, editorial feedback, and human judgment calls on disputed recommendations
+
+### Data Currency
+
+Data in this paper reflects sources available as of December 2025. Most time series (Tables 6-8, Figures 9-13) end in 2024; some real-time measures (Truflation, regional CPI) extend into late 2025.
 
 ### Data Sources and Verification
 
