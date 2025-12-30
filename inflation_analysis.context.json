@@ -1,0 +1,17 @@
+{
+  "document_path": "inflation_analysis.md",
+  "purpose": "Academic working paper on inflation measurement methodology, alternative measures, and the democratization of economic knowledge through AI. Fuse economics with sociological and philosophical work to tell a story about capabilities increases that can have human impact. Forecast societal level implications and impacts taking history into account.",
+  "audience": "Academic researchers, policy analysts, and informed readers interested in economic measurement and AI capabilities",
+  "constraints": [
+    "Maintain academic rigor and tone",
+    "All factual claims must be supportable",
+    "Quantitative support for claims should be included where possible",
+    "Bombastic claims are ok if they have high impact and get the reader involved"
+  ],
+  "non_negotiables": [
+    "Core democratization thesis in Section 8",
+    "Argentina case study findings"
+  ],
+  "iteration": 0,
+  "document_hash": "6f241cb72873"
+}

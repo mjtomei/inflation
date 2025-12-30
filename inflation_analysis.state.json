@@ -1,0 +1,23 @@
+{
+  "document_path": "inflation_analysis.md",
+  "working_path": "inflation_analysis.working.md",
+  "reviews_dir": "inflation_analysis.reviews",
+  "context": {
+    "document_path": "inflation_analysis.md",
+    "purpose": "Academic working paper on inflation measurement methodology, alternative measures, and the democratization of economic knowledge through AI",
+    "audience": "Academic researchers, policy analysts, and informed readers interested in economic measurement and AI capabilities",
+    "constraints": [
+      "Maintain academic rigor and tone",
+      "All factual claims must be supportable"
+    ],
+    "non_negotiables": [
+      "Core democratization thesis in Section 8",
+      "Argentina case study findings"
+    ],
+    "iteration": 0,
+    "document_hash": "6f241cb72873"
+  },
+  "pending_questions": [],
+  "reviews_loaded": 1,
+  "iteration": 0
+}
