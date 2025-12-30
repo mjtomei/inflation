@@ -6,13 +6,13 @@ December 2025
 
 ## Abstract
 
-U.S. inflation measurement has systematically evolved to report lower numbers—and the impact falls hardest on those least able to verify it. This paper demonstrates that machine intelligence now enables anyone to check the math.
+U.S. inflation measurement has evolved to report lower numbers, and the impact falls hardest on those least able to verify it. This paper shows that machine intelligence now lets anyone check the math.
 
-We synthesize existing research comparing official government methodology, alternative private measures, and novel analytical approaches. The findings: (1) cumulative methodological changes to the Consumer Price Index since 1980 have lowered measured inflation by approximately 5.1 percentage points over 31 years (per BLS's own CPI-U-RS series); (2) real-time alternative measures diverge from official CPI by 1-2 percentage points during volatile periods; (3) inflation inequality across income and racial groups is substantial—the lowest income quintile experiences 10% higher cumulative inflation than the highest, and Black and Hispanic households face 0.4-0.6 percentage point higher annual inflation than white households—findings well-documented in Federal Reserve research but absent from popular discourse.
+We synthesize existing research comparing official government methodology, alternative private measures, and novel analytical approaches. The findings: (1) cumulative methodological changes to the Consumer Price Index since 1980 have lowered measured inflation by approximately 5.1 percentage points over 31 years (per BLS's own CPI-U-RS series); (2) real-time alternative measures diverge from official CPI by 1-2 percentage points during volatile periods; (3) inflation inequality across income and racial groups is large: the lowest income quintile experiences 10% higher cumulative inflation than the highest, and Black and Hispanic households face 0.4-0.6 percentage point higher annual inflation than white households. These findings are well-documented in Federal Reserve research but absent from popular discourse.
 
 We construct five novel metrics from publicly available data: necessities have inflated 35 percentage points more than discretionary goods since 2000; asset-adjusted inflation exceeds official CPI by 29%; labor-hours required for a home down payment have increased 84% since 1990; protein costs require 35-42% more work-minutes to purchase than in 1990. The Argentina case study (2007-2015) illustrates how independent measurement can expose official manipulation.
 
-This paper situates inflation measurement within a broader framework of epistemic authority. Drawing on Stiglitz, Foucault, and Scott, we argue that machine intelligence disrupts traditional monopolies on economic measurement. The analyses here synthesize work across economics, sociology, and political philosophy—fields whose practitioners rarely digest each other's literatures. Machine intelligence enables polymath capability: fluency across disciplinary languages in a world where specialization makes such breadth rare. This capacity, now widely accessible, portends a transformation in who can produce authoritative knowledge about economic conditions.
+This paper situates inflation measurement within a broader framework of epistemic authority. Drawing on Stiglitz, Foucault, and Scott, we argue that machine intelligence disrupts traditional monopolies on economic measurement. The analyses here synthesize work across economics, sociology, and political philosophy, fields whose practitioners rarely read each other. Machine intelligence enables polymath capability: fluency across disciplinary languages in a world where specialization makes such breadth rare. This capacity, now widely accessible, portends a transformation in who can produce authoritative knowledge about economic conditions.
 
 **Keywords**: inflation measurement, CPI methodology, distributional effects, alternative data, price indices, information asymmetry, epistemic authority, machine intelligence
 
@@ -30,7 +30,7 @@ This paper contributes to the literature in four ways. First, we synthesize the 
 
 Francis Bacon observed that knowledge is power. Akerlof, Spence, and Stiglitz received the Nobel Prize for demonstrating how information asymmetries create market failures and enable rent extraction. Foucault showed how knowledge production is inseparable from power relations. Scott documented how states use measurement to render populations "legible" and controllable. These insights converge on a single recognition: *the capacity to measure economic reality is itself a form of power*, and that power has historically been concentrated in institutions with resources to collect data, employ statisticians, and disseminate findings through credentialed channels.
 
-Machine intelligence disrupts this arrangement. A human author posed questions; an AI system synthesized literature across disciplines that specialists rarely have time to integrate, generated figures, and drafted text. The result is work that would traditionally require a team spanning economics, sociology, political science, and data science—or a rare polymath with decades to accumulate cross-disciplinary expertise. Readers may judge the quality for themselves—but if it passes muster, the implications for who can produce economic analysis are significant.
+Machine intelligence disrupts this arrangement. A human author posed questions; an AI system synthesized literature across disciplines that specialists rarely have time to integrate, generated figures, and drafted text. The result is work that would traditionally require a team spanning economics, sociology, political science, and data science, or a rare polymath with decades to accumulate cross-disciplinary expertise. Readers may judge the quality for themselves. If it passes muster, the implications for who can produce economic analysis matter.
 
 This is not merely a change in efficiency. It is a change in *who can know*, and therefore in who can challenge official narratives about economic conditions. When a graduate student, a journalist, or a citizen can produce analyses of comparable sophistication to government statistical agencies, the information asymmetry that sustains capture begins to erode.
 
@@ -58,25 +58,25 @@ More recently, blockchain-based measurement systems have emerged. Truflation (la
 
 Research on inflation inequality has accelerated in recent years. Hobijn and Lagakos (2005) first documented systematic differences in inflation rates across demographic groups using Consumer Expenditure Survey data. Jaravel (2019) extended this analysis to show that product innovation disproportionately benefits higher-income consumers, creating a form of unmeasured inflation inequality.
 
-Argente and Lee (2021) examined inflation during the COVID-19 pandemic, finding substantial heterogeneity across income groups driven by differential consumption baskets. The Federal Reserve Banks of Minneapolis (Heise et al., 2024), New York (Armantier et al., 2023), and Richmond (Kudlyak and Wolpin, 2022) have all published research documenting persistent inflation gaps by race and income.
+Argente and Lee (2021) examined inflation during the COVID-19 pandemic, finding wide variation across income groups driven by differential consumption baskets. The Federal Reserve Banks of Minneapolis (Heise et al., 2024), New York (Armantier et al., 2023), and Richmond (Kudlyak and Wolpin, 2022) have all published research documenting persistent inflation gaps by race and income.
 
-This inflation inequality research builds on a deeper tradition of scholarship on racial economic disparities. Darity and Myers (1998) established foundational analysis of persistent racial wealth gaps; Darity and Hamilton (2012) documented how these gaps compound across generations. Oliver and Shapiro (2006) showed that racial wealth inequality dwarfs income inequality, with implications for how inflation affects different communities' capacity to build assets. More recently, Derenoncourt et al. (2022) traced the historical evolution of the Black-white wealth gap, finding that convergence stalled after 1980—precisely the period when CPI methodology changes documented in Section 3 began accumulating. We do not claim causation, but the temporal coincidence merits attention: the period of stalled racial wealth convergence overlaps with the period of cumulative downward methodology adjustments to the index that determines real wage growth, Social Security adjustments, and inflation-indexed benefits.
+This inflation inequality research builds on a deeper tradition of scholarship on racial economic disparities. Darity and Myers (1998) established foundational analysis of persistent racial wealth gaps; Darity and Hamilton (2012) documented how these gaps compound across generations. Oliver and Shapiro (2006) showed that racial wealth inequality dwarfs income inequality, with implications for how inflation affects different communities' capacity to build assets. More recently, Derenoncourt et al. (2022) traced the historical evolution of the Black-white wealth gap, finding that convergence stalled after 1980, precisely when CPI methodology changes documented in Section 3 began accumulating. We do not claim causation, but the temporal coincidence merits attention: the period of stalled racial wealth convergence overlaps with the period of cumulative downward methodology adjustments to the index that determines real wage growth, Social Security adjustments, and inflation-indexed benefits.
 
 ### 2.4 Information Asymmetry and Epistemic Authority
 
 The economics of information, pioneered by Akerlof (1970), Spence (1973), and Stiglitz (1975), establishes that unequal access to information creates systematic market failures. Their Nobel Prize-winning work demonstrated that information asymmetries enable adverse selection, moral hazard, and rent extraction by better-informed parties. As Stiglitz (2017) noted in his retrospective, "new technology has increased the ability to exploit information asymmetries and enhance the market power of those who have differential information."
 
-This insight extends beyond product markets to knowledge production itself. Foucault (1975, 1980) argued that knowledge and power are inseparable—that "knowledge is a form of power and can conversely be used against individuals as a form of power." Knowledge, in this view, is socially constructed through discourses that reflect and reinforce dominant interests. The question is not simply "What is true?" but "Who has the authority to declare what is true, and whose interests does that authority serve?"
+This insight extends beyond product markets to knowledge production itself. Foucault (1975, 1980) argued that knowledge and power are inseparable: "knowledge is a form of power and can conversely be used against individuals as a form of power." Knowledge, in this view, is socially constructed through discourses that reflect and reinforce dominant interests. The question is not simply "What is true?" but "Who has the authority to declare what is true, and whose interests does that authority serve?"
 
 Bourdieu (1975, 2004) developed this analysis specifically for scientific knowledge, demonstrating that access to various forms of capital influences the production, validation, and dissemination of knowledge. The scientific field is not a neutral space of inquiry but a site of competition where power dynamics shape what questions are asked, what methods are legitimate, and whose findings achieve authority.
 
-Scott (1998) provided perhaps the most direct analysis of measurement as power in *Seeing Like a State*. He documented how states use statistical measurement to render populations "legible"—simplifying complex social realities into categories amenable to control. "The premodern state was, in many crucial respects, partially blind," Scott observed. "It knew precious little about its subjects, their wealth, their landholdings and yields, their location, their very identity." The development of censuses, standardized weights and measures, and economic statistics was not merely technical progress but an expansion of state capacity to monitor and intervene.
+Scott (1998) provided perhaps the most direct analysis of measurement as power in *Seeing Like a State*. He documented how states use statistical measurement to render populations "legible," simplifying complex social realities into categories amenable to control. "The premodern state was, in many crucial respects, partially blind," Scott observed. "It knew precious little about its subjects, their wealth, their landholdings and yields, their location, their very identity." The development of censuses, standardized weights and measures, and economic statistics was not merely technical progress but an expansion of state capacity to monitor and intervene.
 
 Stigler's (1971) theory of regulatory capture completes this framework. Regulated industries, with concentrated stakes in regulatory outcomes, systematically influence the regulators tasked with overseeing them. Information asymmetry is central to this process: regulators depend on industry for operational knowledge, creating structural vulnerability to capture. Gilens and Page (2014) extended this analysis, finding that "economic elites and organized interests" have disproportionate influence over policy outcomes relative to the general public.
 
-These literatures converge on a recognition that official economic statistics are not neutral technical products but emerge from institutional contexts shaped by power relations, resource constraints, and potential capture. Independent verification by parties not subject to the same structural pressures is therefore valuable—not because official statistics are wrong, but because the possibility of bias warrants scrutiny regardless of whether bias exists.
+These literatures converge on a recognition that official economic statistics are not neutral technical products but emerge from institutional contexts shaped by power relations, resource constraints, and potential capture. Independent verification by parties not subject to the same structural pressures is therefore valuable. Not because official statistics are wrong, but because the possibility of bias warrants scrutiny regardless of whether bias exists.
 
-**The case for official statistics.** Fairness requires acknowledging the substantial arguments in favor of official methodology. The BLS has strong institutional incentives for accuracy: bond markets, Federal Reserve policy, and Social Security trust fund projections all depend on CPI reliability, creating powerful constituencies for measurement integrity. The methodology changes documented in Section 3 were responses to legitimate technical critiques—the Boskin Commission identified real biases (substitution, quality change, new goods) that overstated inflation. Academic peer review of BLS methodology is extensive, and alternative measures have repeatedly been shown to contain their own biases. The credentialing requirements that limit access to statistical production also serve quality-control functions—ShadowStats (Section 4.3) demonstrates what happens when methodological rigor is absent. We do not assume capture; we argue only that the *possibility* of capture warrants independent verification, not that capture has occurred.
+**The case for official statistics.** Fairness requires acknowledging the strong arguments in favor of official methodology. The BLS has strong institutional incentives for accuracy: bond markets, Federal Reserve policy, and Social Security trust fund projections all depend on CPI reliability, creating powerful constituencies for measurement integrity. The methodology changes documented in Section 3 were responses to legitimate technical critiques: the Boskin Commission identified real biases (substitution, quality change, new goods) that overstated inflation. Academic peer review of BLS methodology is extensive, and alternative measures have repeatedly been shown to contain their own biases. The credentialing requirements that limit access to statistical production also serve quality-control functions. ShadowStats (Section 4.3) shows what happens when methodological rigor is absent. We do not assume capture; we argue only that the *possibility* of capture warrants independent verification, not that capture has occurred.
 
 ### 2.5 Nature of This Study's Contribution
 
@@ -94,9 +94,9 @@ We do not claim to have discovered inflation inequality, identified CPI methodol
 
 The use of AI systems for research assistance is not novel. Early work on automated literature review (Marshall and Wallace, 2019) demonstrated that machine learning could accelerate systematic reviews in medicine. More recently, large language models have been applied to scientific synthesis (Taylor et al., 2022), code generation for data analysis (Chen et al., 2021), and automated report generation in financial services (Lopez-Lira and Tang, 2023).
 
-What distinguishes this paper is not the use of AI assistance—that is increasingly common—but the explicit framing of AI-assisted research as a democratizing force in a domain (economic measurement) where epistemic authority has historically been concentrated. Prior work on AI in economics has focused on prediction (Mullainathan and Spiess, 2017), policy evaluation (Athey and Imbens, 2019), and market analysis. We extend this to the meta-level: not merely using AI to do economics, but arguing that AI changes *who can do* economics.
+What distinguishes this paper is not the use of AI assistance (that is increasingly common) but the explicit framing of AI-assisted research as a democratizing force in a domain (economic measurement) where epistemic authority has historically been concentrated. Prior work on AI in economics has focused on prediction (Mullainathan and Spiess, 2017), policy evaluation (Athey and Imbens, 2019), and market analysis. We extend this to the meta-level: not merely using AI to do economics, but arguing that AI changes *who can do* economics.
 
-This framing has precedents. Benkler (2006) argued that networked information technology enables "commons-based peer production" that challenges proprietary knowledge production. Shirky (2008) documented how reduced coordination costs enable collective action previously impossible. We situate AI-assisted analysis as the latest instance of this pattern—but with the caveat that technological capability does not guarantee democratization of authority (see Section 8.6).
+This framing has precedents. Benkler (2006) argued that networked information technology enables "commons-based peer production" that challenges proprietary knowledge production. Shirky (2008) documented how reduced coordination costs enable collective action previously impossible. We situate AI-assisted analysis as the latest instance of this pattern, with the caveat that technological capability does not guarantee democratization of authority (see Section 8.6).
 
 ---
 
@@ -112,7 +112,7 @@ The CPI-U (all urban consumers) covers approximately 93% of the U.S. population.
 
 ### 3.2 Key Methodological Components
 
-**Hedonic Quality Adjustment**: When product characteristics change alongside prices, the BLS decomposes items into constituent features and estimates the value of each through regression modeling (BLS, 2024b). The quality-adjusted price change removes value attributable to characteristic improvements. Early BLS research suggested hedonic adjustments had minimal net effect on aggregate CPI (Moulton & Moses, 1997), though the impact varies substantially by category—with technology products showing larger adjustments than other goods.
+**Hedonic Quality Adjustment**: When product characteristics change alongside prices, the BLS decomposes items into constituent features and estimates the value of each through regression modeling (BLS, 2024b). The quality-adjusted price change removes value attributable to characteristic improvements. Early BLS research suggested hedonic adjustments had minimal net effect on aggregate CPI (Moulton & Moses, 1997), though the impact varies by category, with technology products showing larger adjustments than other goods.
 
 **Geometric Mean Formula**: Adopted in January 1999, the geometric mean formula allows for consumer substitution within item categories (BLS, 1999). This replaced the arithmetic mean, which assumed fixed consumption quantities regardless of relative price changes. The change lowered measured inflation by approximately 0.28 percentage points annually.
 
@@ -151,9 +151,9 @@ The Federal Reserve's preferred inflation measure since 2000 is the PCE price in
 
 ### 4.1 Truflation
 
-Truflation, launched in December 2021, provides daily inflation updates using blockchain-verified data aggregation (Truflation, 2024). According to the project's documentation, the methodology aggregates approximately 30 million price points from 80+ providers including Amazon, Walmart, Zillow, and NielsenIQ, with daily updates verified through Byzantine Fault Tolerant blockchain consensus. Truflation claims significant lead time over official releases, though independent academic validation of these performance claims remains limited—unlike the Billion Prices Project, Truflation has not yet been subject to peer-reviewed evaluation.
+Truflation, launched in December 2021, provides daily inflation updates using blockchain-verified data aggregation (Truflation, 2024). According to the project's documentation, the methodology aggregates approximately 30 million price points from 80+ providers including Amazon, Walmart, Zillow, and NielsenIQ, with daily updates verified through Byzantine Fault Tolerant blockchain consensus. Truflation claims lead time over official releases, though independent academic validation remains limited. Unlike the Billion Prices Project, Truflation has not yet been subject to peer-reviewed evaluation.
 
-Current readings (as of late 2025) show Truflation at approximately 1.3-1.5%, compared to official CPI at 2.7%—a divergence of approximately 1.3 percentage points. Whether this divergence reflects methodological differences, timing effects, or genuine measurement gaps cannot be determined without more detailed analysis of Truflation's proprietary methodology.
+Current readings (as of late 2025) show Truflation at approximately 1.3-1.5%, compared to official CPI at 2.7%, a divergence of approximately 1.3 percentage points. Whether this divergence reflects methodological differences, timing effects, or genuine measurement gaps cannot be determined without more detailed analysis of Truflation's proprietary methodology.
 
 **Temporal caveat**: The Truflation-CPI divergence patterns observed during the 2022-2025 post-pandemic inflationary period may not persist in more stable economic conditions. During the 2022 inflation peak, Truflation *exceeded* official CPI; the current pattern of CPI exceeding Truflation may reflect the particular dynamics of disinflation rather than a permanent measurement bias. Readers should be cautious about extrapolating current divergences into claims about structural differences between the measures.
 
@@ -179,7 +179,7 @@ John Williams' ShadowStats claims to calculate inflation using pre-1980 methodol
 
 Academic consensus holds that ShadowStats adjustments are "implausibly high" and fail cross-validation (Dolan, 2014). This case illustrates that not all alternatives to official measures are methodologically sound.
 
-**Why ShadowStats fails and why this analysis differs.** ShadowStats fails for three reasons this paper attempts to avoid: (1) *opaque methodology*—it claims to use "pre-1980" methods but actually applies a constant adjustment without explaining its derivation; (2) *unfalsifiable claims*—the adjustment is not tied to verifiable data that would allow independent replication; (3) *internal inconsistency*—the operator's own pricing behavior contradicts his inflation claims. This paper, by contrast, documents its sources, uses publicly available data, constructs metrics that can be independently verified, and explicitly acknowledges what it does and does not claim. Whether this succeeds where ShadowStats fails is for readers to judge—but the attempt at transparent methodology is the relevant difference.
+**Why ShadowStats fails and why this analysis differs.** ShadowStats fails for three reasons this paper attempts to avoid: (1) *opaque methodology*, claiming to use "pre-1980" methods but actually applying a constant adjustment without explaining its derivation; (2) *unfalsifiable claims*, with the adjustment not tied to verifiable data that would allow independent replication; (3) *internal inconsistency*, where the operator's own pricing behavior contradicts his inflation claims. This paper, by contrast, documents its sources, uses publicly available data, constructs metrics that can be independently verified, and explicitly acknowledges what it does and does not claim. Whether this succeeds where ShadowStats fails is for readers to judge, but the attempt at transparent methodology is the relevant difference.
 
 ---
 
@@ -253,11 +253,11 @@ The following section demonstrates how these aggregate patterns manifest in indi
 
 ### 6.1 Maria's Question
 
-Consider Maria, a nursing assistant in Cleveland earning $17 per hour—close to the BLS median for nursing assistants in Ohio. Her household income places her in the second quintile documented in Section 5.1. In 2024, she reads that inflation has fallen to 2.7%—nearly back to the Fed's target. But her grocery bills tell a different story. Eggs cost twice what they did three years ago. Ground beef has become a luxury. Her rent increased 12% last year. She wonders: is the official number wrong, or is something else going on?
+Consider Maria, a nursing assistant in Cleveland earning $17 per hour, close to the BLS median for nursing assistants in Ohio. Her household income places her in the second quintile documented in Section 5.1. In 2024, she reads that inflation has fallen to 2.7%, nearly back to the Fed's target. But her grocery bills tell a different story. Eggs cost twice what they did three years ago. Ground beef has become a luxury. Her rent increased 12% last year. She wonders: is the official number wrong, or is something else going on?
 
-Maria's intuition is correct, but the explanation is subtle. CPI measures the average urban consumer's experience. Maria is not average—she is the second quintile experiencing the 10%+ cumulative inflation gap documented in Section 5. She spends more of her income on food and rent than wealthier households do. She doesn't benefit from falling prices on electronics and apparel. The aggregate statistic is accurate for what it measures—but what it measures may not be her life.
+Maria's intuition is correct, but the explanation is subtle. CPI measures the average urban consumer's experience. Maria is not average. She is in the second quintile experiencing the 10%+ cumulative inflation gap documented in Section 5. She spends more of her income on food and rent than wealthier households do. She doesn't benefit from falling prices on electronics and apparel. The aggregate statistic is accurate for what it measures, but what it measures may not be her life.
 
-With access to the same public data the BLS uses, what could Maria discover about her own inflation experience? This section demonstrates five metrics she could construct—requiring no proprietary data, no institutional resources, and no specialized training beyond what AI assistance now provides.
+With access to the same public data the BLS uses, what could Maria discover about her own inflation experience? This section demonstrates five metrics she could construct, requiring no proprietary data, no institutional resources, and no specialized training beyond what AI assistance now provides.
 
 ### 6.2 How Many Minutes to Buy Groceries?
 
@@ -276,7 +276,7 @@ Maria's first question is visceral: how much longer does she have to work to buy
 
 *Figure 9: Data from BLS median hourly wages and average price data.*
 
-Maria discovers that milk has gotten cheaper in work-time terms—20% less labor to buy a gallon than in 1990. But the proteins her family relies on have gotten dramatically more expensive: eggs require 35% more work time, ground beef 42% more. Avian flu, environmental constraints on cattle production, the land-intensity of protein—these factors are invisible in aggregate CPI, which averages everything together. Maria's grocery basket hasn't experienced 2.7% inflation. Her basket has inflated faster than her wage.
+Maria discovers that milk has gotten cheaper in work-time terms (20% less labor to buy a gallon than in 1990). But the proteins her family relies on have gotten dramatically more expensive: eggs require 35% more work time, ground beef 42% more. Avian flu, environmental constraints on cattle production, the land-intensity of protein: these factors are invisible in aggregate CPI, which averages everything together. Maria's grocery basket hasn't experienced 2.7% inflation. Her basket has inflated faster than her wage.
 
 ### 6.3 Why Do Necessities Cost More?
 
@@ -286,13 +286,13 @@ Maria's second question: what about everything she *has* to buy versus things sh
 
 *Figure 10: Data from BLS CPI component indices.*
 
-The result is stark: by 2024, necessities have risen to 220 (2000=100) while discretionary goods reached only 185—a 35 percentage point gap. Maria spends 70% of her income on necessities; a wealthier household might spend 40%. This single fact explains much of her frustration: the things she cannot avoid have inflated nearly twice as fast as the things she can.
+The result is stark: by 2024, necessities have risen to 220 (2000=100) while discretionary goods reached only 185, a 35 percentage point gap. Maria spends 70% of her income on necessities; a wealthier household might spend 40%. This single fact explains much of her frustration: the things she cannot avoid have inflated nearly twice as fast as the things she can.
 
-The policy implication is direct: Social Security COLA adjustments based on aggregate CPI systematically undercompensate people like Maria. The BLS has an experimental CPI-E for the elderly, but no necessity-weighted index exists for working-age low-income households—until someone like Maria constructs one.
+The policy implication is direct: Social Security COLA adjustments based on aggregate CPI systematically undercompensate people like Maria. The BLS has an experimental CPI-E for the elderly, but no necessity-weighted index exists for working-age low-income households. Until someone like Maria constructs one.
 
 ### 6.4 What About the Assets She Doesn't Own?
 
-Maria doesn't own a home or stocks. CPI tells her that her purchasing power, adjusted for inflation, has grown modestly since 2000. But CPI excludes asset prices entirely—treating housing as rent, ignoring financial assets. What if she constructed an index including the things she's trying to save for?
+Maria doesn't own a home or stocks. CPI tells her that her purchasing power, adjusted for inflation, has grown modestly since 2000. But CPI excludes asset prices entirely, treating housing as rent, ignoring financial assets. What if she constructed an index including the things she's trying to save for?
 
 **Table 7: CPI vs. Asset-Adjusted Index (2000 = 100)**
 
@@ -307,7 +307,7 @@ Maria doesn't own a home or stocks. CPI tells her that her purchasing power, adj
 
 *Figure 11: Data from BLS CPI-U, Case-Shiller National Home Price Index, and S&P 500 via FRED.*
 
-The gap has accelerated: 5% in 2010, 22% in 2020, 29% in 2024. For Maria, this means the goalposts are moving faster than she can run. Her "real wage gains" measured against CPI are illusory—the assets she's trying to accumulate are inflating faster than her wages. The Piketty thesis (r > g) in personal terms: her labor is losing ground to capital she doesn't own.
+The gap has accelerated: 5% in 2010, 22% in 2020, 29% in 2024. For Maria, this means the goalposts are moving faster than she can run. Her "real wage gains" measured against CPI are illusory: the assets she's trying to accumulate are inflating faster than her wages. The Piketty thesis (r > g) in personal terms: her labor is losing ground to capital she doesn't own.
 
 ### 6.5 Can She Ever Buy a House?
 
@@ -327,11 +327,11 @@ Maria's parents bought their first home when her father was 28, working as a mac
 
 *Figure 12: Data from Case-Shiller National Home Price Index and BLS median hourly wage statistics via FRED.*
 
-It's not just her. The entry barrier to homeownership has increased 84% in labor terms since 1990. Her father needed 0.9 years of gross wages for a down payment; she needs 1.7 years. CPI housing, measured through "owner's equivalent rent," captures the cost of *staying* in a home—not the increasingly impossible task of *entering* ownership. This is the wealth-building barrier that declining intergenerational mobility statistics describe. Maria can now put a number on it.
+It's not just her. The entry barrier to homeownership has increased 84% in labor terms since 1990. Her father needed 0.9 years of gross wages for a down payment; she needs 1.7 years. CPI housing, measured through "owner's equivalent rent," captures the cost of *staying* in a home, not the increasingly impossible task of *entering* ownership. This is the wealth-building barrier that declining intergenerational mobility statistics describe. Maria can now put a number on it.
 
 ### 6.6 Putting It Together
 
-Maria constructs a simple grocery basket—milk, eggs, beef, bread, gasoline—and tracks both dollar-cost and time-cost over the past two decades.
+Maria constructs a simple grocery basket (milk, eggs, beef, bread, gasoline) and tracks both dollar-cost and time-cost over the past two decades.
 
 ![Figure 13: Grocery Basket Time-Cost](figures/fig_grocery_basket.png)
 
@@ -348,7 +348,7 @@ The 2020-2024 period shows time-cost acceleration exceeding dollar-cost trends. 
 | Asset-Adjusted | 29% higher than official CPI |
 | Housing Entry | 84% more work-hours for down payment |
 
-Maria now has language for her experience. She is not imagining things. The official statistics are not lying—they are measuring something different from her life. And she constructed these metrics herself, using the same public data the government uses, with no specialized training.
+Maria now has language for her experience. She is not imagining things. The official statistics are not lying; they are measuring something different from her life. And she constructed these metrics herself, using the same public data the government uses, with no specialized training.
 
 This is the point. Maria's frustration with official statistics is shared by millions. Previously, those millions could only say "it feels worse." Now they can say "here is the data." They can construct the metrics that matter to their lives. They can challenge the framing of official statistics not with anger but with numbers.
 
@@ -356,7 +356,7 @@ What does Maria do next? She shares her analysis with her union's research direc
 
 None of this is guaranteed, of course. Maria's analysis might be ignored; the journalist might not call back; the councilmember might never see it. But the capability now exists. It required only a question, public data, and a tool that could help her find the answer.
 
-Whether this capability will be used wisely—whether it will produce better understanding or merely alternative tribal truths—remains to be seen. But the capability is no longer reserved for credentialed experts. Maria can do this. Anyone can do this.
+Whether this capability will be used wisely, whether it will produce better understanding or merely alternative tribal truths, remains to be seen. But the capability is no longer reserved for credentialed experts. Maria can do this. Anyone can do this.
 
 ### 6.8 Data Gaps: What We Cannot Measure
 
@@ -368,11 +368,11 @@ The preceding analyses demonstrate what is possible with available data. Equally
 
 **Fine-resolution geographic price variation** would enable neighborhood-level price tracking. CPI regional data covers only broad metropolitan areas, leaving within-city variation (food deserts, price discrimination by neighborhood demographics) invisible. Given documented disparities in food access and pricing by neighborhood income and racial composition, we would expect substantial variation invisible to current measurement.
 
-**Quality-adjusted services pricing** would track service quality changes—wait times, staff ratios, appointment availability—alongside prices. Hedonic adjustment exists for goods but is minimal for services. Quality deterioration in healthcare, education, and government services represents hidden inflation potentially large enough to alter conclusions about real wage growth in service-intensive consumption categories.
+**Quality-adjusted services pricing** would track service quality changes (wait times, staff ratios, appointment availability) alongside prices. Hedonic adjustment exists for goods but is minimal for services. Quality deterioration in healthcare, education, and government services represents hidden inflation large enough to alter conclusions about real wage growth in service-intensive consumption categories.
 
 **Wealth-contingent pricing** would track how prices differ based on buyer characteristics (credit scores, insurance status, negotiating power). CPI measures posted prices, not transaction prices; price discrimination based on buyer characteristics is extensive but unmeasured. This data would quantify "poverty premiums" and help explain within-income-group variation in inflation experience.
 
-**Expectation-outcome gaps** would link survey-based inflation expectations (Michigan, NY Fed) to actual purchase behavior. This would reveal how expectation errors affect household decisions and whether systematic expectation biases exist by demographic group—potentially explaining some of the political polarization around inflation perceptions noted in Section 5.
+**Expectation-outcome gaps** would link survey-based inflation expectations (Michigan, NY Fed) to actual purchase behavior. This would reveal how expectation errors affect household decisions and whether expectation biases exist by demographic group, potentially explaining some of the political polarization around inflation perceptions noted in Section 5.
 
 ### 6.9 Implications for Measurement Policy
 
@@ -421,7 +421,7 @@ The Billion Prices Project began tracking Argentine prices in 2008, revealing sy
 
 Argentina ceased manipulation in 2015 following government change, introducing a credible new series in June 2016.
 
-The case demonstrates that independent, methodologically transparent measurement serves as an effective check on official statistics. The Billion Prices Project did not assume manipulation—it simply measured. The discrepancy spoke for itself.
+The case demonstrates that independent, methodologically transparent measurement serves as an effective check on official statistics. The Billion Prices Project did not assume manipulation; it simply measured. The discrepancy spoke for itself.
 
 ### 7.5 Applicability to Developed Democracies
 
@@ -429,9 +429,9 @@ The Argentina case is compelling but raises obvious questions about generalizabi
 
 **Conditions enabling Argentine manipulation** included: a political culture of confrontation between government and statistical agencies; weak institutional independence for INDEC; concentrated executive power under the Kirchner administration; and a broader pattern of institutional decay across government. The dismissal of Graciela Bevacqua was possible because Argentine norms permitted such direct intervention.
 
-**U.S. institutional differences** are substantial. The BLS has a longer tradition of professional independence. Academic scrutiny of U.S. statistics is more active. Financial markets would detect manipulation quickly—bond traders, the Federal Reserve, and inflation-linked securities create powerful constituencies for accuracy. U.S. political culture, for all its dysfunction, has not normalized direct executive interference with statistical agencies in the Argentine manner.
+**U.S. institutional differences** are real. The BLS has a longer tradition of professional independence. Academic scrutiny of U.S. statistics is more active. Financial markets would detect manipulation quickly: bond traders, the Federal Reserve, and inflation-linked securities create powerful constituencies for accuracy. U.S. political culture, for all its dysfunction, has not normalized direct executive interference with statistical agencies in the Argentine manner.
 
-**This paper does not claim** that the U.S. is currently engaged in Argentine-style manipulation. We claim only that: (1) methodology changes have cumulatively lowered measured inflation; (2) this is documented in the BLS's own research series; (3) the *possibility* of bias—whether deliberate or emergent—warrants independent verification. The Argentina case is offered as an existence proof that manipulation *can* occur and that independent measurement *can* detect it, not as evidence that manipulation *is* occurring in the United States. Readers who infer more than this misread the argument.
+**This paper does not claim** that the U.S. is currently engaged in Argentine-style manipulation. We claim only that: (1) methodology changes have cumulatively lowered measured inflation; (2) this is documented in the BLS's own research series; (3) the *possibility* of bias, whether deliberate or emergent, warrants independent verification. The Argentina case is offered as an existence proof that manipulation *can* occur and that independent measurement *can* detect it, not as evidence that manipulation *is* occurring in the United States. Readers who infer more than this misread the argument.
 
 ---
 
@@ -439,15 +439,15 @@ The Argentina case is compelling but raises obvious questions about generalizabi
 
 ### 8.1 The Thesis and Its Limits
 
-This paper was produced through collaboration between a human author and a large language model. We do not claim it equals peer-reviewed research—it has not undergone peer review. What we claim is narrower: AI enables synthesis across domains (economics, sociology, political philosophy, data science) that specialists lack time to integrate. The result is work that would otherwise require rare polymaths or large interdisciplinary teams.
+This paper was produced through collaboration between a human author and a large language model. We do not claim it equals peer-reviewed research; it has not undergone peer review. What we claim is narrower: AI enables synthesis across domains (economics, sociology, political philosophy, data science) that specialists lack time to integrate. The result is work that would otherwise require rare polymaths or large interdisciplinary teams.
 
-This argument is self-referential: "AI can produce quality analysis" rests on this paper's quality, which is precisely what readers must judge. We acknowledge the circularity and invite independent verification.
+This argument is self-referential: "AI can produce quality analysis" rests on this paper's quality, which is precisely what readers must judge. We acknowledge the circularity. Independent verification is welcome.
 
 ### 8.2 Historical Context
 
-The capacity to measure has always been inseparable from the capacity to rule. Scott (1998) documented how statistical capacity—censuses, cadastral surveys, standardized measures—expanded state power over "illegible" populations. The CPI itself originated in World War I wage adjustments. Economic statistics are not neutral descriptions but tools designed for governmental purposes.
+The capacity to measure has always been inseparable from the capacity to rule. Scott (1998) documented how statistical capacity (censuses, cadastral surveys, standardized measures) expanded state power over "illegible" populations. The CPI itself originated in World War I wage adjustments. Economic statistics are not neutral descriptions but tools designed for governmental purposes.
 
-For decades, producing authoritative economic statistics required institutional resources, legal authority to compel data, credentialing infrastructure, and dissemination channels. These requirements created natural monopolies. Citizens could not independently verify claims about inflation—they could only choose which authority to trust.
+For decades, producing authoritative economic statistics required institutional resources, legal authority to compel data, credentialing infrastructure, and dissemination channels. These requirements created natural monopolies. Citizens could not independently verify claims about inflation. They could only choose which authority to trust.
 
 ### 8.3 What Changes
 
@@ -459,11 +459,11 @@ The implications are concrete: alternative inflation measures will proliferate; 
 
 The abstract language of "democratization" obscures a concrete question: who specifically gains when the capacity to produce economic analysis becomes widely accessible, and what will they do with it?
 
-**Working class and fixed-income households** have long experienced a disconnect between official inflation statistics and their lived reality. The distributional findings in Section 5—that lower-income households face 10%+ higher cumulative inflation—help explain this disconnect. But documenting a disparity is different from empowering those affected to articulate and challenge it. Machine intelligence changes the latter: a union researcher, a community organization, a retiree advocacy group can now construct customized inflation measures reflecting their constituents' actual consumption patterns. The grocery worker who knows food prices have risen faster than reported can now generate rigorous documentation of that fact. The analytical capability that was once available only to think tanks and academic economists becomes available to anyone with a question and internet access.
+**Working class and fixed-income households** have long experienced a disconnect between official inflation statistics and their lived reality. The distributional findings in Section 5 (that lower-income households face 10%+ higher cumulative inflation) help explain this disconnect. But documenting a disparity is different from empowering those affected to articulate and challenge it. Machine intelligence changes the latter: a union researcher, a community organization, a retiree advocacy group can now construct customized inflation measures reflecting their constituents' actual consumption patterns. The grocery worker who knows food prices have risen faster than reported can now generate rigorous documentation of that fact. The analytical capability that was once available only to think tanks and academic economists becomes available to anyone with a question and internet access.
 
 **Historical parallels** suggest what may follow. The printing press did not merely make books cheaper—it enabled the Protestant Reformation by allowing theological arguments to circulate outside Church-controlled channels. The mimeograph and photocopy machine enabled labor organizing and civil rights documentation that official channels would not produce. The internet enabled citizen journalism that challenged institutional media narratives. In each case, the democratization of *production* capacity shifted power toward those previously excluded from authorized discourse. The pattern is not deterministic—each technology also enabled misinformation and manipulation—but the direction of capability shift is clear.
 
-**Quantitative impact estimates** are necessarily speculative, but consider: if the 10% inflation gap experienced by lower-income households had been prominently documented and politically salient during the 2021-2024 inflationary period, would policy responses have differed? Would Social Security COLA adjustments have been calculated differently? Would political discourse have focused more on distributional effects rather than aggregate statistics? The counterfactual cannot be known, but the potential for alternative framings to influence policy is substantial. Machine intelligence makes such alternative framings trivially producible.
+**Quantitative impact estimates** are necessarily speculative, but consider: if the 10% inflation gap experienced by lower-income households had been prominently documented and politically salient during the 2021-2024 inflationary period, would policy responses have differed? Would Social Security COLA adjustments have been calculated differently? Would political discourse have focused more on distributional effects rather than aggregate statistics? The counterfactual cannot be known, but the potential for alternative framings to influence policy is real. Machine intelligence makes such alternative framings trivially producible.
 
 ### 8.5 Beyond Inflation
 
@@ -473,13 +473,13 @@ The same analytical capabilities apply to employment statistics, GDP measurement
 
 Intellectual honesty requires acknowledging that this transformation carries risks—particularly given that this paper was produced by an AI system with potential interest in favorable framing.
 
-AI systems can produce sophisticated-seeming nonsense as easily as rigorous analysis (ShadowStats demonstrates this). They can hallucinate citations and generate internally consistent arguments resting on factual errors. The human author has verified this paper's claims, but readers should maintain skepticism.
+AI systems can produce sophisticated-seeming nonsense as easily as rigorous analysis. ShadowStats shows how this goes wrong. They can hallucinate citations and generate internally consistent arguments resting on factual errors. The human author has verified this paper's claims, but readers should maintain skepticism.
 
-The "democratization" framing may be premature. AI capabilities are concentrated in a few large technology companies; access requires substantial compute or commercial APIs; training costs billions; inference has non-trivial energy costs. What has occurred is a shift in *which* institutions control analytical capability, not necessarily broader distribution.
+The "democratization" framing may be premature. AI capabilities are concentrated in a few large technology companies. Access requires compute or commercial APIs. Training costs billions. Inference has real energy costs. What has occurred is a shift in *which* institutions control analytical capability, not necessarily broader distribution.
 
 Democratization of analysis *production* does not guarantee democratization of analysis *authority*. Institutions may respond by raising credentialing requirements, emphasizing remaining data barriers, or absorbing AI into existing power structures. The printing press enabled both the Reformation and the Counter-Reformation; the internet enabled both citizen journalism and sophisticated disinformation. AI may follow the same pattern.
 
-The success of epistemic democratization depends on institutional responses, norm development, and choices yet to be made—not on technology alone.
+The success of epistemic democratization depends on institutional responses, norm development, and choices yet to be made. Not on technology alone.
 
 ---
 
@@ -505,7 +505,7 @@ This paper has examined U.S. inflation measurement through comparative analysis 
 
 **Alternative measures provide meaningful information.** Truflation currently diverges from official CPI by 1.2-1.4 percentage points; during the 2022 peak, divergence exceeded 2.5 percentage points. These discrepancies may reflect timing differences, methodological artifacts, or real measurement gaps.
 
-**Inflation inequality is substantial and documented.** Lower-income households experience 10%+ faster cumulative inflation than upper-income households. Black and Hispanic households experience higher and more volatile inflation. These are not alternative calculations—they are findings from BLS and Federal Reserve research using official data.
+**Inflation inequality is real and documented.** Lower-income households experience 10%+ faster cumulative inflation than upper-income households. Black and Hispanic households experience higher and more volatile inflation. These are not alternative calculations—they are findings from BLS and Federal Reserve research using official data.
 
 **Novel metrics are constructible.** Publicly available data could support indices tracking time-cost, life-stage baskets, shrinkflation, asset prices, and demographic breakdowns. These would provide transparency currently absent from headline figures.
 
